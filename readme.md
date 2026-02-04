@@ -1,3 +1,3 @@
-# Proyecto de prueba    
-## Autor: Alejandro Belando
-Commit de prueba
+## Funcionalidad añadida
+
+- Método que muestra la fecha y hora actual usando `LocalDateTime`
